@@ -1,4 +1,16 @@
-[78] CDAS: A Crowdsourcing Data Analytics System 2012—— 固定的工人答题正确率[51] Active Learning from Crowds[59] Quality Management on AMT[94] Incremental Quality Inference in Crowdsourcing—— 变化的工人答题正确率[78]CDAS: A Crowdsourcing Data Analytics System 2012
+Quality Control
+===============
+
+Paper Reading
+---------------
+[78] CDAS: A Crowdsourcing Data Analytics System 2012
+    —— 固定的工人答题正确率
+[51] Active Learning from Crowds
+[59] Quality Management on AMT
+[94] Incremental Quality Inference in Crowdsourcing
+    —— 变化的工人答题正确率
+
+###[78]CDAS: A Crowdsourcing Data Analytics System 2012
     * The core part of CDAS is a quality-sensitive model
 
 Introduction
